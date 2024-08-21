@@ -3,6 +3,16 @@ entries:
   notebooks-accounting:
   - apiVersion: v2
     appVersion: "2.0"
+    created: "2024-08-21T12:31:26.369391121Z"
+    description: A Helm chart for Kubernetes
+    digest: 1f3f854d199892abf398ac0a8857d7bcf317e923627c21ec1ff0cc25449b302b
+    name: notebooks-accounting
+    type: application
+    urls:
+    - https://egi-federation.github.io/egi-notebooks-accounting/notebooks-accounting-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: "2.0"
     created: "2023-02-15T13:46:50.866277489Z"
     description: A Helm chart for Kubernetes
     digest: 25a430ba8d8f9d349e813da7c0d0fc70c04fc80baa1e48ca7f0464da517b9a04
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://egi-federation.github.io/egi-notebooks-accounting/notebooks-accounting-0.0.1-0.dev.git.1.h3265dd9.tgz
     version: 0.0.1-0.dev.git.1.h3265dd9
-generated: "2024-08-21T11:45:48.766283848Z"
+generated: "2024-08-21T12:31:26.368885967Z"
