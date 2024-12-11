@@ -1,6 +1,6 @@
-# EGI Notebooks Accounting
+# Kubernetes Usage Accounting
 
-EGI Notebooks accounting tools.
+Kubernetes Usage Accounting accounting tools.
 
 ## Required settings
 
